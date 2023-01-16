@@ -1,0 +1,26 @@
+{
+    "dog_setting": {
+        "urls": [
+            "https://images.search.yahoo.com/search/images;_ylt=Awr9_ot4qcJju9UWWlWJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgMEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDdFpyTTBxTGpScS5qaERhbDdIcmRSQQRuX3JzbHQDMARuX3N1Z2cDMTAEb3JpZ2luA2ltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAMxBHF1ZXJ5AyVFNyU4QSVBQwR0X3N0bXADMTY3MzcwMjc5Ng--?p=%E7%8A%AC&fr=&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt",
+            "https://images.search.yahoo.com/search/images;_ylt=Awr9_ouMrcJjrjIXEQmJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgMEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDYUcyY1laMmtSVHVHSm95RFdIdzlaQQRuX3JzbHQDMARuX3N1Z2cDMQRvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzQEcXVlcnkDJUU3JThBJUFDJTIwJUU3JTk0JUJCJUU1JTgzJThGBHRfc3RtcAMxNjczNzAzMzUz?p=%E7%8A%AC+%E7%94%BB%E5%83%8F&fr=&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt"
+        ],
+        "dst": "./images/dog",
+        "prefix": "dog_"
+    },
+    "cat_setting": {
+        "urls": [
+            "https://images.search.yahoo.com/search/images;_ylt=Awr99b4kqcJjDv0VjUmJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgMEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDYWw1d3NMNEtUVUtmUlRzbEc1TnBQQQRuX3JzbHQDMARuX3N1Z2cDMgRvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzQEcXVlcnkDJUU3JThDJUFCJTIwJUU3JTk0JUJCJUU1JTgzJThGBHRfc3RtcAMxNjczNzAxNjc2?p=%E7%8C%AB+%E7%94%BB%E5%83%8F&fr=&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt",
+            "https://images.search.yahoo.com/search/images;_ylt=Awr9_ouMrcJjrjIXEQmJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgMEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDZG5kd1UwV09UTjJiU2dCZGRRSUlYQQRuX3JzbHQDMARuX3N1Z2cDMTAEb3JpZ2luA2ltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAMxBHF1ZXJ5AyVFNyU4QyVBQgR0X3N0bXADMTY3MzcwMzU0Mg--?p=%E7%8C%AB&fr=&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt"
+        ],
+        "dst": "./images/cat",
+        "prefix": "cat_"
+    },
+    "rabbit_setting": {
+        "urls": [
+            "https://images.search.yahoo.com/search/images;_ylt=Awr99b5mt8JjpGQWX1uJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgMEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDdDRHRGtFSGpRVldDZ2FvVmo1TzJhQQRuX3JzbHQDMARuX3N1Z2cDMQRvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzYEcXVlcnkDJUUzJTgxJTg2JUUzJTgxJTk1JUUzJTgxJThFJTIwJUU3JTk0JUJCJUU1JTgzJThGBHRfc3RtcAMxNjczNzA1MzIz?p=%E3%81%86%E3%81%95%E3%81%8E+%E7%94%BB%E5%83%8F&fr=&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt",
+            "https://images.search.yahoo.com/search/images;_ylt=Awr924Zrt8JjcKYWcGGJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgMEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDUGE3YjFibkNSTkdsb1NuZlh4b3pSQQRuX3JzbHQDMARuX3N1Z2cDMTAEb3JpZ2luA2ltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAMzBHF1ZXJ5AyVFMyU4MSU4NiVFMyU4MSU5NSVFMyU4MSU4RQR0X3N0bXADMTY3MzcwNTMzNg--?p=%E3%81%86%E3%81%95%E3%81%8E&fr=&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt"
+        ],
+        "dst": "./images/rabbit",
+        "prefix": "rabbit_"
+    }
+}

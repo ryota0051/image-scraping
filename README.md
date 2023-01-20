@@ -4,7 +4,7 @@
 
 ## 実行方法
 
-1. `docker run -it --rm <任意のタグ名> python main.py`を実行する。
+1. `docker run -v <本ディレクトリへのパス>:/work -it --rm <任意のタグ名> python main.py`を実行する。
 
 2. `./images`配下に`dog`, `cat`, `rabbit`ディレクトリが順次作成され、内部に画像が格納されていくので終了まで待つ。
 
